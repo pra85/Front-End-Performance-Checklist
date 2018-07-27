@@ -43,7 +43,7 @@
 
 ## Introduction
 
-Performance is a huge subject, but it's not always a "back-end" or an "admin" subject: it's a Front-End responsibility too. The Front-End Performance Checklist is an exhausted list of elements you should check or at least be aware of, as a Front-End developer and apply to your project (personal and professional).
+Performance is a huge subject, but it's not always a "back-end" or an "admin" subject: it's a Front-End responsibility too. The Front-End Performance Checklist is an exhaustive list of elements you should check or at least be aware of, as a Front-End developer and apply to your project (personal and professional).
 
 ### How to use?
 
@@ -53,7 +53,7 @@ All items in the **Front-End Performance Checklist** are essentials to achieve t
 
 * ![Low][low] means that the item has a **low** priority and impact on your project.
 * ![Medium][medium] means that the item has a **medium** priority and impact on your project. You shouldn't avoid tackling that item.
-* ![High][high] means that the item has a **high** priority and impact on your project. You can't avoid following that rules and do the corrections appropriates.
+* ![High][high] means that the item has a **high** priority and impact on your project. You can't avoid following that rule and implement the corrections recommended.
 
 ### Performance tools
 
@@ -95,7 +95,7 @@ List of the tools you can use to test or monitor your website or application:
     * 🛠 [HTML minifier | Minify Code](http://minifycode.com/html-minifier/)
     * 🛠 [Online HTML Compressor](http://refresh-sf.com)
     * 📖 [Experimenting with HTML minifier — Perfection Kills](http://perfectionkills.com/experimenting-with-html-minifier/#use_short_doctype)
-
+    
 - [ ] **Remove unnecessary comments:** ![low] Ensure that comments are removed from your pages.
 
     *Why:*
